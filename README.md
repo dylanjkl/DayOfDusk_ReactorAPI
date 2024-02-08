@@ -5,7 +5,7 @@ The ReactorAPI is for interfacing with the new reactor in Day of Dusk: The Borde
 
 ## Overview
 
-ReactorLib is a Lua module designed for managing and monitoring a nuclear reactor simulation within a Roblox game. This library provides a suite of functions for fetching the reactor model, subscribing to reactor attribute changes, and getting current values of various reactor attributes such as fuel level, heat level, and power output.
+ReactorLib is a Lua module designed for managing and monitoring a fedorium reactor simulation within Day of Dusk: The Border. This library provides a suite of functions for fetching the reactor model, subscribing to reactor attribute changes, and getting current values of various reactor attributes such as fuel level, heat level, and power output.
 
 ## Functions
 
